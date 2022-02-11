@@ -1,7 +1,6 @@
 
 import pdfkit
 
-#
 # if sys.argv[-1] != ASADMIN:
 #     script = os.path.abspath(sys.argv[0])
 #     params = ' '.join([script] + sys.argv[1:] + [ASADMIN])
